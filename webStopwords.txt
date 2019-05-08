@@ -1,0 +1,1 @@
+['http','www','home','page','time','out','error','service','server','connect','fail','fobiden','skip','start','contact','email','facebook','read','more','help','hour','twitter','google','about','back','search','next','last','menu','news','blog','solution','address','phone','website','copyright','reserved','english']

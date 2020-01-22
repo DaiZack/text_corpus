@@ -701,5 +701,8 @@
     "MD": "US", "ME": "US", "MI": "US", "MN": "US", "MO": "US", "MP": "US", "MS": "US", "MT": "US", "NA": "US", "NC": "US", "ND": "US", 
     "NE": "US", "NH": "US", "NJ": "US", "NM": "US", "NV": "US", "NY": "US", "OH": "US", "OK": "US", "OR": "US", "PA": "US", "PR": "US", 
     "RI": "US", "SC": "US", "SD": "US", "TN": "US", "TX": "US", "UT": "US", "VA": "US", "VI": "US", "VT": "US", "WA": "US", "WI": "US", 
-    "WV": "US", "WY": "US", "AE": "US", "AA": "US", "AP": "US"
+    "WV": "US", "WY": "US", "AE": "US", "AA": "US", "AP": "US", "MX-AG":"MX","MX-BC":"MX","MX-BS":"MX","MX-CM":"MX","MX-CO":"MX",
+    "MX-CL":"MX","MX-CS":"MX","MX-CH":"MX","MX-DF":"MX","MX-DG":"MX","MX-GT":"MX","MX-GR":"MX","MX-HG":"MX","MX-JA":"MX","MX-EM":"MX",
+    "MX-MI":"MX","MX-MO":"MX","MX-NA":"MX","MX-NL":"MX","MX-OA":"MX","MX-PU":"MX","MX-QT":"MX","MX-QR":"MX","MX-SL":"MX","MX-SI":"MX",
+    "MX-SO":"MX","MX-TB":"MX","MX-TM":"MX","MX-TL":"MX","MX-VE":"MX","MX-YU":"MX","MX-ZA":"MX"
 }}
